@@ -34,3 +34,17 @@ if(sum === 5 || sum2 === 5){
 button.addEventListener("click", count);
 button2.addEventListener("click", count2);
 button3.addEventListener("click", reset);
+
+/*
+
+Step 1:
+Complete
+
+Step 2:
+Complete
+
+Extra Credit:
+Remember to check for the winning conditions INSIDE of your event functions.
+
+From Kenn
+*/
